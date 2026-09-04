@@ -1,0 +1,2 @@
+# ISQCconfidentialite
+règle de confidentialité
